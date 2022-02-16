@@ -14,7 +14,7 @@ global.APIKeys = {
 	'https://zeks.me': 'Alphabott',
 }
 
-global.owner = ['94742134288',94742134288','94753943957'94753943957']
+global.owner = ["94753943957","94742134288"]
 global.packname = 'BOTKINGDOM'
 global.author = '❤️'
 global.swelcome = '*Welcome @tag* \n\n📛 : _@user_\n💌 : _@bio_\n🔢 : _@number_\n👥 : @subject\n🏅: _@member Members_\n⏰ : _@time Server time_\n\n```Hope you like it and don\'t forget to read the group description```'
