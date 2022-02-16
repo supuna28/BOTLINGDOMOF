@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "api-alphabot":"1.0.2",
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "github:AkirahX/baileys#multi-device"
     "amethyste-api":"^1.1.5",
     "async": "^3.2.1",
     "awesome-phonenumber": "^2.62.0",
